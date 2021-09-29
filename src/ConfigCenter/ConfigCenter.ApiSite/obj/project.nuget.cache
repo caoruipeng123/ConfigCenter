@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCycAC++IQnGmI9xfQneX5ixXMLgd7V0J690XsMLiaMC856AqZqEC8E0mf1eT2/u1/v0oIgvbalc66NiQm1RAQ==",
+  "success": true,
+  "projectFilePath": "D:\\kangwei\\ConfigCenter\\src\\ConfigCenter\\ConfigCenter.ApiSite\\ConfigCenter.ApiSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xy960\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\xy960\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\xy960\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\xy960\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\xy960\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\xy960\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
